@@ -4,8 +4,7 @@ Projeto feito na segunda edição da Next Level Week Rocketseat.
 
 ### Prerequisites
 
-Node.js
-[text](https://nodejs.org/)
+[Nodejs](https://nodejs.org/)
 
 ### Running Project
 ```
