@@ -1,13 +1,11 @@
-# Project Title
+# Backend Nlw#2
 
 Projeto feito na segunda edição da Next Level Week Rocketseat.
 
 ### Prerequisites
 
-```
 Node.js
 [text](https://nodejs.org/)
-```
 
 ### Running Project
 ```
